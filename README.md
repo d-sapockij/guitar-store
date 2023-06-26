@@ -3,5 +3,5 @@
 
 Онлайн приложение, сделанное с помошью [бесплатного курса]([https://www.youtube.com/watch?v=sn1ffZ6I9Qw](https://youtube.com/playlist?list=PL7cTIfGFrdKn9lnGXEUWEXYdYp-HKGPAw)https://youtube.com/playlist?list=PL7cTIfGFrdKn9lnGXEUWEXYdYp-HKGPAw)
 
-> Присутствует работа с локальным хранилищем
-> Используется БЭМ
+> - Присутствует работа с локальным хранилищем
+> - Используется БЭМ
